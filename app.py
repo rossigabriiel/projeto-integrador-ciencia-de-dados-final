@@ -11,7 +11,7 @@ st.set_page_config(
 
 @st.cache_data
 def carregar_dados():
-    caminho = Path("data/vendas_ecommerce.csv")
+    caminho = Path("vendas_ecommerce.csv")
     df = pd.read_csv(caminho)
     df["data_pedido"] = pd.to_datetime(df["data_pedido"], errors="coerce")
     df["valor_total"] = df["quantidade"] * df["preco_unitario"]
