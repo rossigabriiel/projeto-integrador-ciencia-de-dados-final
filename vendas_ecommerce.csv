@@ -1,0 +1,21 @@
+﻿id_pedido,data_pedido,cliente,categoria,produto,quantidade,preco_unitario,estado,status,valor_total
+1001,2024-01-05,Cliente A,Eletrônicos,Fone,1,120,SP,Entregue,120
+1002,2024-01-12,Cliente B,Moda,Camiseta,2,50,RJ,Entregue,100
+1003,2024-01-19,Cliente C,Casa,Panela,1,90,MG,Cancelado,90
+1004,2024-01-26,Cliente D,Beleza,Perfume,3,80,PR,Entregue,240
+1005,2024-02-02,Cliente E,Esporte,Tênis,1,210,BA,Entregue,210
+1006,2024-02-09,Cliente A,Eletrônicos,Fone,2,130,SP,Entregue,260
+1007,2024-02-16,Cliente B,Moda,Camiseta,1,55,RJ,Cancelado,55
+1008,2024-02-23,Cliente C,Casa,Panela,4,95,MG,Entregue,380
+1009,2024-03-01,Cliente D,Beleza,Perfume,2,75,PR,Entregue,150
+1010,2024-03-08,Cliente E,Esporte,Tênis,1,220,BA,Entregue,220
+1011,2024-03-15,Cliente A,Eletrônicos,Fone,3,125,SP,Entregue,375
+1012,2024-03-22,Cliente B,Moda,Camiseta,2,60,RJ,Entregue,120
+1013,2024-03-29,Cliente C,Casa,Panela,1,100,MG,Entregue,100
+1014,2024-04-05,Cliente D,Beleza,Perfume,1,85,PR,Cancelado,85
+1015,2024-04-12,Cliente E,Esporte,Tênis,2,230,BA,Entregue,460
+1016,2024-04-19,Cliente A,Eletrônicos,Fone,4,140,SP,Entregue,560
+1017,2024-04-26,Cliente B,Moda,Camiseta,1,65,RJ,Entregue,65
+1018,2024-05-03,Cliente C,Casa,Panela,2,110,MG,Entregue,220
+1019,2024-05-10,Cliente D,Beleza,Perfume,3,90,PR,Entregue,270
+1020,2024-05-17,Cliente E,Esporte,Tênis,1,240,BA,Entregue,240
